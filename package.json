@@ -1,5 +1,5 @@
 {
-  "name": "sats-connect",
+  "name": "@exodus/sats-connect",
   "version": "0.5.0",
   "main": "dist/index.js",
   "files": [
